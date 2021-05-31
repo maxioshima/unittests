@@ -13,4 +13,4 @@ def remove_word(word):  # Функция "переворачивает" слов
 
 if __name__ == '__main__':
     case = input()
-    print(' '.join([remove_word(word) for word in case.split(' ')]))
+    # print(' '.join([remove_word(word) for word in case.split(' ')]))
